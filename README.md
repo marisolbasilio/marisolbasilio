@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @marisolbasilio, Researcher at the Centre for Play in Education, Development and Learning at the University of Cambridge. 
+- 👋 Hi, I’m @marisolbasilio, Researche Associate at the Centre for Play in Education, Development and Learning at the University of Cambridge. 
 - 👀 I’m interested in reproducible science for understanding child development, particularly longitudinal studies with behavioural outcomes.
 - 🌱 I’m currently learning GitHub, R, R markdown. 
 - 💞️ I’m looking to collaborate on Lantent Class analysis, growth curve modelling of early predictors of academic achievement and wellbeing. 
